@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jose-csolo
 - 👀 I’m interested in Scrapping and real state
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on I don't know, but my Spanis is excellent
+- 💞️ I’m looking to collaborate on I don't know what, but my Spanish is excellent
 - 📫 How to reach me, drop a message in github
 
 <!---
